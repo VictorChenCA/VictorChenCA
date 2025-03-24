@@ -2,7 +2,7 @@
 
 Hi! I am a software developer specializing in front-end development, with a strong interest in AI and Computer Vision. My work bridges AI technologies with intuitive user experiences, interactive data visualizations, and XR development.  
 
-- 🏆 **Notable Achievement**: Winner of the **OpenAI Track at TreeHacks 2025** (2 out of 117 teams).  
+- 🏆 **Achievements**:** OpenAI Track Winner at TreeHacks 2025** (2 out of 117 teams).  
 - 👀 **Interests**: AI, Machine Learning, Computer Vision, and modern front-end development.  
 - 🌱 **Currently Learning**: PyTorch, TensorFlow, and Next.js development.  
 - 💼 **Experience**: Creating an interactive, scalable, and responsive webapp **@correckrd-inc**! Built a data visualization template for **Lawrence Berkeley National Lab**; developed CV-powered apps published on the **Google Play Store** with **Stony Brook University**.  
