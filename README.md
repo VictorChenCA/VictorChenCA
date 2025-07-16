@@ -2,7 +2,7 @@
 
 👋 I'm Victor Chen — an engineer specializing in **XR**, **AI**, and **front-end** development. I build intelligent, immersive systems that connect computer vision models to real-time spatial interfaces and interactive web experiences. Whether it’s prototyping CV-powered apps for the Quests, deploying real-time AI on Spectacles, or crafting data-rich web UIs, I bridge advanced ML with human-centered design across platforms.
 
-- **3x🏆:** OpenAI Track Winner @ [TreeHacks 2025](https://www.treehacks.com/) (2/500) | Roboflow, ElevenLabs Tracks Winner @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)
+- **🏆** OpenAI Track Winner @ [TreeHacks 2025](https://www.treehacks.com/) (2/500) | Roboflow, ElevenLabs Tracks Winner @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)
 - 🌱 **Learning**: PyTorch, TensorFlow, and Next.js development.  
 - 💼 **Experience**: Creating an interactive, scalable, and responsive webapp **@correckrd-inc**! Built a data visualization template for **Lawrence Berkeley National Lab**; developed CV-powered apps published on the **Google Play Store** with **Stony Brook University**.  
 
