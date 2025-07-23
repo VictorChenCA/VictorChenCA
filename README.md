@@ -1,28 +1,41 @@
 # Victor Chen
 
-👋 I'm **Victor**, an engineer focused on **XR**, **AI**, and **front-end systems**. I design and build full-stack, real-time computer vision applications for **VR** (Meta Quest), **wearable AR** (Snap Spectacles, Mentra Live), and **interactive webapps**. My work spans deploying ML models on-device, crafting spatial interfaces and responsive UIs, and integrating end-to-end pipelines.
+👋 I'm **Victor**, an engineer focused on **XR**, **AI**, and **front-end systems**. I build full-stack, real-time computer vision applications for **VR** (Meta Quest), **wearable AR** (Snap Spectacles, Mentra Live), and **interactive web apps**. My work spans deploying ML models on-device, designing spatial interfaces and responsive UIs, and integrating end-to-end pipelines.
 
-- 🏆 **Wins:** **[OpenAI Winner](https://devpost.com/software/treetrash)** @ [TreeHacks 2025](https://www.treehacks.com/) (2/500) & **Roboflow + ElevenLabs Winner** @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)  
-- 🧠 **Currently Exploring**: PyTorch, TensorFlow, and modern React (Next.js, Tailwind, App Router)  
+- 🏆 **Wins**: **[OpenAI Winner](https://devpost.com/software/treetrash)** @ [TreeHacks 2025](https://www.treehacks.com/) (2/500) · **Roboflow + ElevenLabs Winner** @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)  
+- 🌱 **Currently exploring**: PyTorch, TensorFlow, and modern React (Next.js, Tailwind)
+- 🤝 **What I care about**: Bridging AI/ML and interaction design to make advanced systems and innovative technologies usable and intuitive.
 - 💼 **Experience**:
-  - Co-developed [**Virtual Becomes Reality**](https://store.steampowered.com/app/1658530/Virtual_Becomes_Reality_A_Stanford_VR_Experience/) — A Stanford narrative VR experience exploring perception and presence.
-  - Integrated real-time systems across APIs and hardware — Connected **OpenAI**, **Roboflow**, **ElevenLabs**, and **Perplexity** with platforms like **MentraOS**, **Mentra Live**, and **Adafruit Feather** for hackathons and prototyping.
+  - Co-developed [**Virtual Becomes Reality**](https://store.steampowered.com/app/1658530/Virtual_Becomes_Reality_A_Stanford_VR_Experience/): a Stanford VR experience exploring perception and presence through narrative.
+  - Built real-time prototypes across APIs and hardware—integrating OpenAI, Roboflow, ElevenLabs, and Perplexity with MentraOS, Mentra Live, and Adafruit Feather using Flask, Bun, and BLE/LoRa.
   - Led front-end development at [**rézme**](https://github.com/Rezme-Inc) — Built performant, interactive [web apps](https://www.rezme.app/) to automate Fair Chance Hiring across jurisdictions.
   - Built a [data visualization platform](https://github.com/VictorChenCA/Wetland-CH4) at **Lawrence Berkeley National Lab** — Integrated CH₄ LSTM outputs with custom chart components for environmental research.
   - Engineered on-device CV apps with **Stony Brook University** — Built and deployed [YOLOv5 Android apps](https://github.com/VictorChenCA/WasteClassify) for real-time object detection on the Google Play Store.
 
-Exploring human-centered approaches to AI, spatial computing, and web applications. Always learning from others building in these spaces.
-📬 victor36@stanford.edu | [LinkedIn](https://www.linkedin.com/in/victorchenca/)
-
 <!--Let’s chat about applied AI agents, immersive spatial interactions, or responsive, accessible web apps.-->
 <!--Always interested in conversations around applied AI agents, immersive spatial computing, or building fast, accessible web experiences.-->
+Exploring human-centered approaches to AI, spatial computing, and web applications. Always learning from others building in these spaces.  
+📬 victor36@stanford.edu · [LinkedIn](https://www.linkedin.com/in/victorchenca/) · [Website](https://victorchenca.github.io/)
+
 ---
 
 ## Tools & Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<!--
+<!--## 💼 Experience
 
+- **Co-developed [Virtual Becomes Reality](https://store.steampowered.com/app/1658530/Virtual_Becomes_Reality_A_Stanford_VR_Experience/)** — A narrative VR experience for the Meta Quest built at Stanford. Focused on perception, embodiment, and spatial interaction design. Worked on Unity development, interaction scripting, and deployment via SideQuest.
+
+- **Integrated real-time systems across APIs and hardware** — Built multimodal prototypes using OpenAI (GPT), Roboflow (object detection), ElevenLabs (TTS), and Perplexity (search) connected to wearable and embedded platforms like MentraOS (XR glasses), Mentra Live, and Adafruit Feather via LoRa and BLE. Developed full-stack pipelines using Flask, Bun, and React.
+
+- **Led front-end development at [rézme](https://github.com/Rezme-Inc)** — Designed and implemented performant, interactive web applications to automate Fair Chance Hiring compliance across jurisdictions. Built internal tools and public-facing dashboards using Next.js, Tailwind, TypeScript, and Supabase. Integrated with ATS systems and background check APIs.
+
+- **Built a [data visualization platform](https://github.com/VictorChenCA/Wetland-CH4) at Lawrence Berkeley National Lab** — Visualized methane emission forecasts from LSTM-based models trained on wetland data. Created interactive charts and dashboard interfaces in Python (Matplotlib, Plotly), with back-end integration for data ingestion pipelines.
+
+- **Engineered on-device computer vision apps with Stony Brook University** — Built and deployed Android apps using YOLOv5 for real-time object detection on mobile devices. Optimized model inference using TorchScript for edge deployment and published the application to the Google Play Store.-->
+
+
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/victorchenca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorchenca" height="30" width="40" /></a>
