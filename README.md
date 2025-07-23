@@ -1,20 +1,15 @@
 # Victor Chen
 
-👋 I'm **Victor**, an engineer focused on **XR**, **AI**, and **front-end systems**. I design and build full-stack, real-time computer vision applications for **VR** (Meta Quest), **wearable AR** (Snap Spectacles, Mentra Live), and **interactive webapps**.
- My work spans deploying ML models on-device, crafting spatial interfaces and responsive UIs, and integrating end-to-end pipelines. I specialize in bridging machine learning with interaction design to make advanced tech usable and intuitive.
-
+👋 I'm **Victor**, an engineer focused on **XR**, **AI**, and **front-end systems**. I design and build full-stack, real-time computer vision applications for **VR** (Meta Quest), **wearable AR** (Snap Spectacles, Mentra Live), and **interactive webapps**. My work spans deploying ML models on-device, crafting spatial interfaces and responsive UIs, and integrating end-to-end pipelines.
 
 - 🏆 **Wins:** **[OpenAI Winner](https://devpost.com/software/treetrash)** @ [TreeHacks 2025](https://www.treehacks.com/) (2/500) & **Roboflow + ElevenLabs Winner** @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)  
 - 🧠 **Currently Exploring**: PyTorch, TensorFlow, and modern React (Next.js, Tailwind, App Router)  
 - 💼 **Experience**:
   - Co-developed [**Virtual Becomes Reality**](https://store.steampowered.com/app/1658530/Virtual_Becomes_Reality_A_Stanford_VR_Experience/) — A Stanford narrative VR experience exploring perception and presence.
-  - Integrated real-time systems across APIs and hardware — Connected OpenAI, Roboflow, ElevenLabs, and Perplexity with platforms like **MentraOS**, **Mentra Live**, and **Adafruit Feather** for hackathons and prototyping.
+  - Integrated real-time systems across APIs and hardware — Connected **OpenAI**, **Roboflow**, **ElevenLabs**, and **Perplexity** with platforms like **MentraOS**, **Mentra Live**, and **Adafruit Feather** for hackathons and prototyping.
   - Led front-end development at [**rézme**](https://github.com/Rezme-Inc) — Built performant, interactive [web apps](https://www.rezme.app/) to automate Fair Chance Hiring across jurisdictions.
   - Built a [data visualization platform](https://github.com/VictorChenCA/Wetland-CH4) at **Lawrence Berkeley National Lab** — Integrated CH₄ LSTM outputs with custom chart components for environmental research.
   - Engineered on-device CV apps with **Stony Brook University** — Built and deployed [YOLOv5 Android apps](https://github.com/VictorChenCA/WasteClassify) for real-time object detection on the Google Play Store.
-
-### I care about:
-- Making machine learning systems usable—designing interfaces that reveal how they work and let users stay in control
 
 Exploring human-centered approaches to AI, spatial computing, and web applications. Always learning from others building in these spaces.
 📬 victor36@stanford.edu | [LinkedIn](https://www.linkedin.com/in/victorchenca/)
