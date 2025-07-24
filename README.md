@@ -7,18 +7,11 @@
 - 🤝 **What I care about**: Bridging AI/ML and interaction design to make emerging technologies usable and intuitive.
 - 💼 **Experience**:
   - Co-developed [**Virtual Becomes Reality**](https://store.steampowered.com/app/1658530/Virtual_Becomes_Reality_A_Stanford_VR_Experience/) — a **Stanford** narrative VR experience exploring perception and presence.
-  - Led front-end development at [**rézme**](https://github.com/Rezme-Inc) — Built performant, interactive [web apps](https://www.rezme.app/) to automate Fair Chance Hiring across jurisdictions.
+  - **Led front-end at [rézme](https://github.com/Rezme-Inc)** — built fast, interactive [web apps](https://www.rezme.app/) to automate Fair Chance Hiring across jurisdictions.
   - Integrated real-time systems across APIs and hardware — built multimodal prototypes using **OpenAI**, **Roboflow**, **ElevenLabs**, and **Perplexity**, connected to devices like **Mentra Live** (via **MentraOS SDK**), **Adafruit Feather**, and more, using **Flask**, **Bun**, and **LoRa**.
-  - Developed a [CH₄ emissions visualizer](https://github.com/VictorChenCA/Wetland-CH4) at **Lawrence Berkeley National Lab** — visualized LSTM-powered global methane forecasts on an interactive, rotatable 3D globe with custom web dashboards for NetCDF datasets, used as a lab-wide template.
+  - Developed a [CH₄ emissions visualizer](https://github.com/VictorChenCA/Wetland-CH4) at **Lawrence Berkeley National Lab** — visualized LSTM-powered global methane forecasts on an interactive, rotatable 3D globe with custom web dashboards for NetCDF datasets.
   - Engineered on-device CV apps with **Stony Brook University** — built and deployed [YOLOv5-based Android apps](https://github.com/VictorChenCA/WasteClassify) for real-time waste classification on the Google Play Store.
 
-
-
-
-
-
-
-`
 <!--Let’s chat about applied AI agents, immersive spatial interactions, or responsive, accessible web apps.-->
 <!--Always interested in conversations around applied AI agents, immersive spatial computing, or building fast, accessible web experiences.-->
 Exploring human-centered approaches to AI, spatial computing, and web applications. Always learning from others building in these spaces.  📬 victor36@stanford.edu · [LinkedIn](https://www.linkedin.com/in/victorchenca/) · [Website](https://victorchenca.github.io/)
