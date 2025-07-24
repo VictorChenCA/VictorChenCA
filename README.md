@@ -2,15 +2,22 @@
 
 👋 I'm **Victor**, an engineer focused on **XR**, **AI**, and **front-end systems**. I build full-stack, real-time computer vision applications for **VR** (Meta Quest), **wearable AR** (Snap Spectacles, Mentra Live), and **interactive web apps**. My work spans deploying ML models on-device, designing spatial interfaces and responsive UIs, and integrating end-to-end pipelines.
 
-- 🏆 **Wins**: **[OpenAI Winner](https://devpost.com/software/treetrash)** @ [TreeHacks 2025](https://www.treehacks.com/) (2/500) · **Roboflow + ElevenLabs Winner** @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)  
+- 🏆 **Wins**: [**OpenAI Winner**](https://devpost.com/software/treetrash) @ [TreeHacks 2025](https://www.treehacks.com/) (2/500) · **Roboflow + ElevenLabs Winner** @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)  
 - 🌱 **Currently exploring**: PyTorch, TensorFlow, and modern React (Next.js, Tailwind)
-- 🤝 **What I care about**: Bridging AI/ML and interaction design to make advanced systems and innovative technologies usable and intuitive.
+- 🤝 **What I care about**: Bridging AI/ML and interaction design to make emerging technologies usable and intuitive.
 - 💼 **Experience**:
-  - Co-developed [**Virtual Becomes Reality**](https://store.steampowered.com/app/1658530/Virtual_Becomes_Reality_A_Stanford_VR_Experience/): a Stanford VR experience exploring perception and presence through narrative.
-  - Built real-time prototypes across APIs and hardware—integrating OpenAI, Roboflow, ElevenLabs, and Perplexity with MentraOS, Mentra Live, and Adafruit Feather using Flask, Bun, and BLE/LoRa.
-  - Led front-end development at [**rézme**](https://github.com/Rezme-Inc) — Built performant, interactive [web apps](https://www.rezme.app/) to automate Fair Chance Hiring across jurisdictions.
-  - Built a [data visualization platform](https://github.com/VictorChenCA/Wetland-CH4) at **Lawrence Berkeley National Lab** — Integrated CH₄ LSTM outputs with custom chart components for environmental research.
-  - Engineered on-device CV apps with **Stony Brook University** — Built and deployed [YOLOv5 Android apps](https://github.com/VictorChenCA/WasteClassify) for real-time object detection on the Google Play Store.
+  - Co-developed [**Virtual Becomes Reality**](https://store.steampowered.com/app/1658530/Virtual_Becomes_Reality_A_Stanford_VR_Experience/) — a **Stanford** narrative VR experience exploring perception and presence.
+  - Led front-end at [**rézme**](https://github.com/Rezme-Inc) — designed and shipped performant [web apps](https://www.rezme.app/) to automate Fair Chance Hiring across jurisdictions.
+  - Integrated real-time systems across APIs and hardware — built multimodal prototypes using **OpenAI**, **Roboflow**, **ElevenLabs**, and **Perplexity**, connected to devices like **Mentra Live** (via **MentraOS SDK**), **Adafruit Feather**, and more, using **Flask**, **Bun**, and **LoRa**.
+  - Developed a [CH₄ emissions visualizer](https://github.com/VictorChenCA/Wetland-CH4) at **Lawrence Berkeley National Lab** — visualized LSTM-powered global methane forecasts on an interactive, rotatable 3D globe with custom web dashboards for NetCDF datasets, used as a lab-wide template.
+  - Engineered on-device CV apps with **Stony Brook University** — built and deployed [YOLOv5-based Android apps](https://github.com/VictorChenCA/WasteClassify) for real-time waste classification on the Google Play Store.
+
+
+
+
+
+
+
 
 <!--Let’s chat about applied AI agents, immersive spatial interactions, or responsive, accessible web apps.-->
 <!--Always interested in conversations around applied AI agents, immersive spatial computing, or building fast, accessible web experiences.-->
