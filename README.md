@@ -1,11 +1,15 @@
 # Victor Chen
 
-👋 I'm **Victor**, an engineer focused on **XR**, **AI**, and **front-end systems**. I build full-stack, real-time computer vision applications for **VR** (Meta Quest), **wearable AR** (Snap Spectacles, Mentra Live), and **interactive web apps**. My work spans deploying ML models on-device, designing spatial interfaces and responsive UIs, and integrating end-to-end pipelines.
+👋 I'm **Victor**, an engineer focused on **XR**, **AI**, and **full-stack systems**. I build real-time CV applications for **VR** (Meta Quest), **wearable AR** (Meta Ray-Bans, Snap Spectacles, Mentra Live), and **mobile/webapps** across a variety of stacks and cloud providers(GCP, AWS, Azure). My work spans deploying ML models on-device, designing spatial interfaces and responsive UIs, and integrating end-to-end pipelines.
 
-- 🏆 **Wins**: [**OpenAI Winner**](https://devpost.com/software/treetrash) @ [TreeHacks 2025](https://www.treehacks.com/) (2/500) · **Roboflow + ElevenLabs Winner** @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)  
+- 🏆 **Wins**:
+  - [**Ray-Bans Best Use of the Meta Wearables Device Access Toolkit**](https://devpost.com/software/ourlife) @ [RealityHack 2026](https://www.realityhackatmit.com/)
+  - [**OpenAI Winner**](https://devpost.com/software/treetrash) @ [TreeHacks 2025](https://www.treehacks.com/) (2/500), piloting with **Stanford’s Office of Sustainability**
+  - **Best of Roboflow + Best of ElevenLabs Winner** @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)  
 - 🌱 **Currently exploring**: PyTorch, TensorFlow, and modern React (Next.js, Tailwind)
 - 🤝 **What I care about**: Bridging AI/ML and interaction design to make emerging technologies usable and intuitive.
 - 💼 **Experience**:
+  - Directed **Immerse The Bay**, Silicon Valley's largest XR Hackathon, with nearly 400 attendees, $30,000 in prizes, and $200,000+ in hardware.
   - Co-developed [**Virtual Becomes Reality**](https://store.steampowered.com/app/1658530/Virtual_Becomes_Reality_A_Stanford_VR_Experience/) — a **Stanford** narrative VR experience exploring perception and presence.
   - **Led front-end at [rézme](https://github.com/Rezme-Inc)** — built fast, interactive [web apps](https://www.rezme.app/) to automate Fair Chance Hiring across jurisdictions.
   - Integrated real-time systems across APIs and hardware — built multimodal prototypes using **OpenAI**, **Roboflow**, **ElevenLabs**, and **Perplexity**, connected to devices like **Mentra Live** (via **MentraOS SDK**), **Adafruit Feather**, and more, using **Flask**, **Bun**, and **LoRa**.
