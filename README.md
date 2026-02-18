@@ -2,10 +2,11 @@
 
 👋 I'm **Victor**, an engineer focused on **XR**, **AI**, and **full-stack systems**. I build real-time CV applications for **VR** (Meta Quest), **wearable AR** (Meta Ray-Bans, Snap Spectacles, Mentra Live), and **mobile/webapps** across a variety of stacks and cloud providers(GCP, AWS, Azure). My work spans deploying ML models on-device, designing spatial interfaces and responsive UIs, and integrating end-to-end pipelines.
 
-- 🏆 **Wins**:
+- 🏆 **Wins (6 wins, 4 hacks)**:
+  - [**AI Main Track Winner**](https://devpost.com/software/mira-w65b0a) + [**Most Impactful Grand Prize**](https://devpost.com/software/mira-w65b0a) @ [TreeHacks 2026](https://www.treehacks.com/) (1/208, 1/378)
   - [**Ray-Bans Best Use of the Meta Wearables Device Access Toolkit**](https://devpost.com/software/ourlife) @ [RealityHack 2026](https://www.realityhackatmit.com/)
-  - [**OpenAI Winner**](https://devpost.com/software/treetrash) @ [TreeHacks 2025](https://www.treehacks.com/) (2/500), piloting with **Stanford’s Office of Sustainability**
-  - **Best of Roboflow + Best of ElevenLabs Winner** @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/100)  
+  - [**OpenAI Winner**](https://devpost.com/software/treetrash) @ [TreeHacks 2025](https://www.treehacks.com/) (2/116), piloting with **Stanford’s Office of Sustainability**
+  - **Best of Roboflow + Best of ElevenLabs Winner** @ [Mentra Live Hackathon](https://lu.ma/jpjpjyta) (1/25, 1/25)  
 - 🌱 **Currently exploring**: PyTorch, TensorFlow, and modern React (Next.js, Tailwind)
 - 🤝 **What I care about**: Bridging AI/ML and interaction design to make emerging technologies usable and intuitive.
 - 💼 **Experience**:
