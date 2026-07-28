@@ -2,7 +2,8 @@
 
 👋 I'm **Victor**, an engineer focused on **XR**, **AI**, and **full-stack systems**. I build real-time CV applications for **VR** (Meta Quest), **wearable AR** (Meta Ray-Bans, Snap Spectacles, Mentra Live), and **mobile/webapps** across a variety of stacks and cloud providers(GCP, AWS, Azure). My work spans deploying ML models on-device, designing spatial interfaces and responsive UIs, and integrating end-to-end pipelines.
 
-- 🏆 **Wins (6 wins, 4 hacks)**:
+- 🏆 **Wins (7 wins, 5 hacks)**:
+  - [**PayPal Track Winner**](https://winston-concierge.vercel.app/) @ [Voice AI Hackathon](https://luma.com/fmypremp?tk=JRXuUQ) (1/400+)
   - [**AI Main Track Winner**](https://devpost.com/software/mira-w65b0a) + [**Most Impactful Grand Prize**](https://devpost.com/software/mira-w65b0a) @ [TreeHacks 2026](https://www.treehacks.com/) (1/208, 1/378)
   - [**Ray-Bans Best Use of the Meta Wearables Device Access Toolkit**](https://devpost.com/software/ourlife) @ [RealityHack 2026](https://www.realityhackatmit.com/)
   - [**OpenAI Winner**](https://devpost.com/software/treetrash) @ [TreeHacks 2025](https://www.treehacks.com/) (2/116), piloting with **Stanford’s Office of Sustainability**
